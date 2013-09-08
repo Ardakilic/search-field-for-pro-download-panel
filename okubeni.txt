@@ -1,0 +1,33 @@
+Pro Download Panel Arama Alanı
+Versiyon: 1.0
+Yazar: Arda Kılıçdağı (SoulSmasher)
+Web: www.soulsmasher.net , www.phpfusionturkiye.com
+
+This program is released as free software under the
+Affero GPL license. You can redistribute it and/or
+modify it under the terms of this license which you
+can read by viewing the included agpl.txt or online
+at www.gnu.org/licenses/agpl.html. Removal of this
+copyright header is strictly prohibited without
+written permission from the original author(s).
+
+AÇIKLAMA
+---------------------
+Bu arama alanları ile Pro Download Panel için search.php üzerinden aramaları dahil edebilirsiniz.
+Not: Bu arama alanı pro download panelin sadece 1.85 ve sonraki versiyonları içindir.
+
+
+MEVCUT DİL DOSYALARI
+---------------------
+*İngilizce
+*Türkçe
+
+
+KURULUM
+---------------------
+*Tek yapmanız gereken files klasörü altındaki her şeyi PHP-fusion kök klaösrünüze yüklemek.
+
+
+SÜRÜM GEÇMİŞİ
+---------------------
+*1.0 - İlk Sürüm
